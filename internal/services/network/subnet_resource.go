@@ -93,6 +93,7 @@ var subnetDelegationServiceNames = []string{
 	"PaloAltoNetworks.Cloudngfw/firewalls",
 	"Qumulo.Storage/fileSystems",
 	"Oracle.Database/networkAttachments",
+	"Microsoft.DevOpsInfrastructure/pools",
 }
 
 func resourceSubnet() *pluginsdk.Resource {
